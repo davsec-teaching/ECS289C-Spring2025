@@ -32,14 +32,13 @@ The slides for each presentation should be submitted to the instructor 3 days be
 Final projects will be performed in groups of two. A few project ideas are provided [here](Projects.md), and students 
 are welcome to propose their own projects.
 
-There will be an optional 5% extra-credit homework at the start of the quarter to help students get familiar with the LLVM compiler toolchain.
-
 
 | **Grading component**          | **Weightage**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Paper presentations**  | 40%              |
+| **Participation (paper discussions)** | 20% |
 | **Final project**        | 40%              |
-| **Homework**      | 5%                      |
+
 
 The midterm and final will be in-class and closed book. The assignments will be performed in groups of 2.
 
