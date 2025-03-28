@@ -80,7 +80,9 @@ You are welcome to collaborate and discuss your projects and presentations with 
 
 ### Attendance and participation
 
-In general, the student can miss no more than 3 classes, without providing a valid reason. However, attendance alone is not enough to secure the participation grade component. Missing class on the day of their presentation will get a zero for that presentation. In rare cases, we will be able to accommodate the presentation on a later day, but this isn't guaranteed.
+In general, the student can miss no more than 3 classes, without providing a valid reason. However, attendance alone is not enough to secure the participation grade component. You must contribute to the discussions to get the participation points.
+
+Missing class on the day of their presentation will get a zero for that presentation. In rare cases, we will be able to accommodate the presentation on a later day, but this isn't guaranteed.
 
 ## Student support
 
