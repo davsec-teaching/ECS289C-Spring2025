@@ -61,25 +61,27 @@ The grade cutoffs will be as follows.
 
 ## Textbooks and resources
 
-There are no required textbooks. Please check [here](Resources.md) for recommended textbooks and resources.
+There are no required textbooks. 
+
+Please check [here](Resources.md) for recommended textbooks and resources.
 
 ## Policies
 
 ### Using AI
-Using AI ([ChatGPT](chatgpt.com), [GitHub Copilot](https://github.com/features/copilot)) to help with coding is permitted, but from my experience using these tools without knowing what you are doing causes more problems. Moreover, the projects assigned are research projects which are by 
-definition unsolved problems. So, I expect LLMs to be minimally useful in actually solving the problem. 
+Using AI tools to help with coding is permitted, but from my experience using these tools without knowing what you are doing causes infinitely more problems than just learning and implementing it yourself. The projects assigned are research projects which are by 
+definition unsolved problems. So, I expect LLMs to be minimally useful in solving them. 
 
-Using AI for creating presentation slides is **not** permitted. You can however use AI to help you understand the paper. But again, beware, AI tools are pretty bad at understanding the program analysis papers and hallucinate **a lot!!** 
+Using AI for generating content for the presentation slides is **not** permitted. I don't recommend it, but you _can_ use AI to help you understand the paper. But again, beware, AI tools are pretty bad at understanding the program analysis papers and hallucinate **a lot!!** 
 
-The student is responsible for all code/presentation/report they turn in. Turning in submissions that they cannot explain and justify will result in a zero for that component and potentially, being reported to SJA. 
+That said, you are responsible for 100% of what you turn in. Turning in submissions that you cannot fully explain and justify in person will result in a zero for that component and potentially, being reported to SJA for academic dishonesty. 
 
 ### Collaboration
 
-You are welcome to collaborate and discuss your projects and presentations with others in the class. Discussing and getting help from others from outside of the class is, by default, not permitted. Please talk with me if, for some reason, you feel you must do this.
+You are welcome to collaborate and discuss your projects and presentations with others in the class. Discussing and accepting help from others from outside of the class is, by default, not permitted. Please talk with me if, for some reason, you feel you want do this. We will evaluate it on a case-by-case basis.
 
 ### Attendance and participation
 
-In general, the student can miss no more than 3 classes, without providing a valid reason. However, attendance alone is not enough to secure the participation grade component. 
+In general, the student can miss no more than 3 classes, without providing a valid reason. However, attendance alone is not enough to secure the participation grade component. Missing class on the day of their presentation will get a zero for that presentation. In rare cases, we will be able to accommodate the presentation on a later day, but this isn't guaranteed.
 
 ## Student support
 
