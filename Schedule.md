@@ -10,7 +10,7 @@
 | 4/17 | Pointer analysis                      | |  [Pointer analysis notes](https://yanniss.github.io/points-to-tutorial15.pdf)|
 | 4/22 | Testing and symbolic execution        | |  | 
 | 4/24 |                                       |  1. [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf) <br/> 2. [Cloning-based context-sensitive pointer alias analysis using binary decision diagrams](https://dl.acm.org/doi/10.1145/996841.996859) | |
-| 4/29 | _Project proposal presentations_        | | |
+| 4/29 |                                       | _Project proposal presentations_ | |
 | 5/1  | Memory safety and programming languages | | | 
 | 5/6  | Memory safety and programming languages | 1. [Points to analysis in almost linear time](https://dl.acm.org/doi/10.1145/237721.237727) | | 
 | 5/8  |                                       | 1. [Efficient field-sensitive pointer analysis for C](https://dl.acm.org/doi/10.1145/1290520.1290524) <br/> 2. [Rethinking Incremental and Parallel Pointer Analysis](https://dl.acm.org/doi/10.1145/3293606) | |
@@ -21,5 +21,5 @@
 | 5/27 |                                       | 1. [HHVM JIT: a profile-guided, region-based compiler for PHP and Hack](https://dl.acm.org/doi/10.1145/3192366.3192374) <br/> 2. [Reusing Just-in-Time Compiled Code](https://dl.acm.org/doi/10.1145/3622839) | | 
 | 5/29 |                                       | 1. [Directed Greybox Fuzzing](https://dl.acm.org/doi/10.1145/3133956.3134020) <br/> **[TBD]** | | 
 | 6/3  |                                       | 1. [Similarity of Binaries Through Re-Optimization](https://dl.acm.org/doi/abs/10.1145/3140587.3062387) <br/> 2. [Superset Disassemby](https://personal.utdallas.edu/~hamlen/bauman18ndss.pdf) | | 
-| 6/5  | _Final project presentations_           | |
+| 6/5  |                                       | _Final project presentations_| |
 
