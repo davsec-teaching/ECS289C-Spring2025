@@ -36,7 +36,7 @@ are welcome to propose their own projects.
 | **Grading component**          | **Weightage**                                                                 |
 |----------------------|---------------------------------------------------------------------------------|
 | **Paper presentations**  | 40%              |
-| **Participation (paper discussions)** | 20% |
+| **Attendance and participation** | 20% |
 | **Final project**        | 40%              |
 
 
