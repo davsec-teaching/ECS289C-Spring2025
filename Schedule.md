@@ -1,0 +1,25 @@
+## Schedule
+
+| **Date** | **Lecture topic** | **Paper discussion** | **Resources** |
+|----------|-------------------|----------------------|---------------|
+| 4/1  | Logistics and compiler introduction   | |  |
+| 4/3  | Compiler fundamentals                 | |  [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |
+| 4/8  | Compiler fundamentals                 | |  |
+| 4/10 | Data flow and control flow analysis   | |  | 
+| 4/15 |                                       | 1. [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993316.1993532) <br/> 2. [Random testing C and C++ compilers with YARPGen](https://dl.acm.org/doi/10.1145/3428264)| |
+| 4/17 | Pointer analysis                      | |  [Pointer analysis notes](https://yanniss.github.io/points-to-tutorial15.pdf)|
+| 4/22 | Testing and symbolic execution        | |  | 
+| 4/24 |                                       |  1. [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf) <br/> 2. [Cloning-based context-sensitive pointer alias analysis using binary decision diagrams](https://dl.acm.org/doi/10.1145/996841.996859) | |
+| 4/29 | _Project proposal presentations_        | | |
+| 5/1  | Memory safety and programming languages | | | 
+| 5/6  | Memory safety and programming languages | 1. [Points to analysis in almost linear time](https://dl.acm.org/doi/10.1145/237721.237727) | | 
+| 5/8  |                                       | 1. [Efficient field-sensitive pointer analysis for C](https://dl.acm.org/doi/10.1145/1290520.1290524) <br/> 2. [Rethinking Incremental and Parallel Pointer Analysis](https://dl.acm.org/doi/10.1145/3293606) | |
+| 5/13 |                                       | 1. [Chopped symbolic execution](https://dl.acm.org/doi/10.1145/3180155.3180251) <br/> 2. [Past-sensitive pointer analysis for symbolic execution](https://dl.acm.org/doi/10.1145/3368089.3409698) | |
+| 5/15 |                                       | 1. [CUTE: A Concolic Unit Testing Engine for C](https://dl.acm.org/doi/10.1145/1095430.1081750) <br/> 2. [Automated Concolic Testing of Smartphone Apps](https://dl.acm.org/doi/10.1145/2393596.2393666) | |
+| 5/20 |                                       | 1. [Control-Flow Integrity: Precision, Security, and Performance](https://dl.acm.org/doi/pdf/10.1145/3054924) <br/> 2. [Control Flow Integrity for COTS Binaries](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/zhang) | | 
+| 5/22 | Decompilation and lifting             | 1. [Trace-based Just-in-Time Type Specialization for Dynamic Languages](https://dl.acm.org/doi/10.1145/1543135.1542528) | | 
+| 5/27 |                                       | 1. [HHVM JIT: a profile-guided, region-based compiler for PHP and Hack](https://dl.acm.org/doi/10.1145/3192366.3192374) <br/> 2. [Reusing Just-in-Time Compiled Code](https://dl.acm.org/doi/10.1145/3622839) | | 
+| 5/29 |                                       | 1. [Directed Greybox Fuzzing](https://dl.acm.org/doi/10.1145/3133956.3134020) <br/> **[TBD]** | | 
+| 6/3  |                                       | 1. [Similarity of Binaries Through Re-Optimization](https://dl.acm.org/doi/abs/10.1145/3140587.3062387) <br/> 2. [Superset Disassemby](https://personal.utdallas.edu/~hamlen/bauman18ndss.pdf) | | 
+| 6/5  | _Final project presentations_           | |
+
