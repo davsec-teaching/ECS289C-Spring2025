@@ -1,6 +1,6 @@
 ## ECS289C Spring2025 - Compilers and Program Analysis 
 
-This course will cover compilers and program analyis techniques, broadly defined. Some of the topics covered in this course include control and data flow analysis, 
+This course will cover compilers, program analyis techniques, and their applications. Some of the topics covered in this course include control and data flow analysis, 
 pointer analysis, symbolic executing, fuzzing and testing, just-in-time compilation, decompilation and binary lifting, and compiler-based software security defenses.
 
 ### Prerequisites
