@@ -29,7 +29,7 @@ Paper presentations will be
 performed individually. Each student will be expected to present and lead the discussion for 2-3 papers during the quarter.
 The slides for each presentation should be submitted to the instructor 3 days before the presentation day for feedback. 
 
-Final projects will be performed in groups of two. A few project ideas are provided [here](Projects.md), and students 
+Final projects will be performed in groups of two. A few project ideas are provided [here](https://canvas.ucdavis.edu/courses/972363/pages/project-ideas), and students 
 are welcome to propose their own projects.
 
 
