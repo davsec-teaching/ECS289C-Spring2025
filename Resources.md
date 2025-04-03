@@ -13,6 +13,6 @@
 1. LLVM Intermediate Representation Language Reference - https://llvm.org/docs/LangRef.html
 2. Short introduction to LLVM - https://www.cs.cornell.edu/~asampson/blog/llvm.html
 3. How to write an LLVM Pass - https://llvm.org/docs/WritingAnLLVMNewPMPass.html
-4. No really, how to write an LLVM Pass - [https://github.com/sampsyo/llvm-pass-skeleton.git](https://github.com/sampsyo/llvm-pass-skeleton), https://github.com/banach-space/llvm-tutor
+4. No really, how to write an LLVM Pass - https://github.com/sampsyo/llvm-pass-skeleton, https://github.com/banach-space/llvm-tutor
    
  
