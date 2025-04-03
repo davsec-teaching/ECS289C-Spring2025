@@ -3,7 +3,7 @@
 | **Date** | **Lecture topic** | **Paper discussion** | **Resources** |
 |----------|-------------------|----------------------|---------------|
 | 4/1  | Logistics and compiler introduction ([slides](slides/1_logistics_compiler_intro.pptx))  | |  |
-| 4/3  | Compiler fundamentals                 | |  [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |
+| 4/3  | Compiler fundamentals ([slides](slides/2_compiler_fundamentals.pptx))                | |  [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |
 | 4/8  | Compiler fundamentals                 | |  |
 | 4/10 | Data flow and control flow analysis   | |  | 
 | 4/15 |                                       | 1. [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993316.1993532) <br/> 2. [Random testing C and C++ compilers with YARPGen](https://dl.acm.org/doi/10.1145/3428264)| |
