@@ -19,7 +19,7 @@
 | 5/20 |                                       | 1. [Control-Flow Integrity: Precision, Security, and Performance](https://dl.acm.org/doi/pdf/10.1145/3054924) <br/> 2. [Control Flow Integrity for COTS Binaries](https://www.usenix.org/conference/usenixsecurity13/technical-sessions/presentation/zhang) | | 
 | 5/22 |                                       | 1. [Data flow integrity](https://www.usenix.org/legacy/event/osdi06/tech/full_papers/castro/castro.pdf) <br/> 2. [Trace-based Just-in-Time Type Specialization for Dynamic Languages](https://dl.acm.org/doi/10.1145/1543135.1542528) | | 
 | 5/27 |                                       | 1. [HHVM JIT: a profile-guided, region-based compiler for PHP and Hack](https://dl.acm.org/doi/10.1145/3192366.3192374) <br/> 2. [Reusing Just-in-Time Compiled Code](https://dl.acm.org/doi/10.1145/3622839) | | 
-| 5/29 |                                       | 1. [Directed Greybox Fuzzing](https://dl.acm.org/doi/10.1145/3133956.3134020) <br/> **[TBD]** | | 
+| 5/29 |                                       | 1. [Directed Greybox Fuzzing](https://dl.acm.org/doi/10.1145/3133956.3134020) <br/> 2. [MUZZ: Thread-aware Grey-box Fuzzing for Effective Bug Hunting in Multithreaded Programs](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hongxu)  | | 
 | 6/3  |                                       | 1. [Similarity of Binaries Through Re-Optimization](https://dl.acm.org/doi/abs/10.1145/3140587.3062387) <br/> 2. [Superset Disassemby](https://personal.utdallas.edu/~hamlen/bauman18ndss.pdf) | | 
 | 6/5  |                                       | _Final project presentations_| |
 
