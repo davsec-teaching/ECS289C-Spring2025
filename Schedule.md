@@ -6,9 +6,9 @@
 | 4/3  | Compiler fundamentals ([slides](slides/2_compiler_fundamentals.pptx))                | |  [How to read a paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf) |
 | 4/8  | Compiler fundamentals                 | |  |
 | 4/10 | Data flow analysis ([slides](slides/3_data_flow_analysis.pptx)) | |  | 
-| 4/15 | Pointer analysis                      | |  [Pointer analysis notes](https://yanniss.github.io/points-to-tutorial15.pdf)|
-| 4/17 |                                       | 1. [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993316.1993532) <br/> 2. [Random testing C and C++ compilers with YARPGen](https://dl.acm.org/doi/10.1145/3428264)| |
-| 4/22 | Testing and symbolic execution        | |  | 
+| 4/15 | Data flow analysis                    | |  |
+| 4/17 | Pointer analysis                      | | [Pointer analysis notes](https://yanniss.github.io/points-to-tutorial15.pdf)|
+| 4/22 |                                       | 1. [Finding and understanding bugs in C compilers](https://dl.acm.org/doi/10.1145/1993316.1993532) <br/> 2. [Random testing C and C++ compilers with YARPGen](https://dl.acm.org/doi/10.1145/3428264)|  | 
 | 4/24 |                                       |  1. [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf) <br/> 2. [Cloning-based context-sensitive pointer alias analysis using binary decision diagrams](https://dl.acm.org/doi/10.1145/996841.996859) | |
 | 4/29 |                                       | _Project proposal presentations_ | |
 | 5/1  | Memory safety and programming languages | | | 
