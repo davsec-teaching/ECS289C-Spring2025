@@ -13,7 +13,7 @@ This course has no formal prerequisite, but previous experience with compiler de
 |----------------------|---------------------------------------------------------------------------------|
 | **Instructor**      | Tapti Palit (tpalit@ucdavis.edu)                                                 |
 | **Lectures**        | Tues/Thurs 10:30 AM - 11:50 AM in TLC 3218              |
-| **Instructor Office Hours**    | W 1 PM - 2 PM in Academic Surge 2087                   |
+| **Instructor Office Hours**    | M 1 PM - 2 PM in Academic Surge 2087                   |
 
 ### Schedule
 
