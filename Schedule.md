@@ -12,7 +12,7 @@
 | 4/24 |                                       |  1. [The Ant and the Grasshopper: Fast and Accurate Pointer Analysis for Millions of Lines of Code](https://www.cs.utexas.edu/~lin/papers/pldi07.pdf) <br/> 2. [Cloning-based context-sensitive pointer alias analysis using binary decision diagrams](https://dl.acm.org/doi/10.1145/996841.996859) | |
 | 4/29 | Memory safety and programming languages ([slides](slides/5_memory_safety.pptx)) |  | |
 | 5/1  |  | | | 
-| 5/6  | Software testing | 1. [Points to analysis in almost linear time](https://dl.acm.org/doi/10.1145/237721.237727) | | 
+| 5/6  | Fuzzing ([slides](slides/10_fuzzing.pptx))  | 1. [Points to analysis in almost linear time](https://dl.acm.org/doi/10.1145/237721.237727) | | 
 | 5/8  |                                       | 1. [Efficient field-sensitive pointer analysis for C](https://dl.acm.org/doi/10.1145/1290520.1290524) <br/> 2. [Rethinking Incremental and Parallel Pointer Analysis](https://dl.acm.org/doi/10.1145/3293606) | |
 | 5/13 |                                       | 1. [KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs](https://llvm.org/pubs/2008-12-OSDI-KLEE.pdf) <br/> 2. [Chopped symbolic execution](https://dl.acm.org/doi/10.1145/3180155.3180251) | |
 | 5/15 |                                       | 1. [Past-sensitive pointer analysis for symbolic execution](https://dl.acm.org/doi/10.1145/3368089.3409698) <br/> 2. [CUTE: A Concolic Unit Testing Engine for C](https://dl.acm.org/doi/10.1145/1095430.1081750) | |
